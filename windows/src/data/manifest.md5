@@ -4,5 +4,5 @@
 e3d384fd461b09722fef3513af43d003 src/data/version
 add2fbb306657066dcc37ee6d5a0115a src/integrity.py
 9a3bb7dad741a46528c549f9b4a02479 src/main.py
-dde7b58b2f165fe200a1281aee99c770 src/updater.py
-a6eb23bf1d52c31c5a670349c582d4e6 start.bat
+ef563da88b708780c3ad1634398cb2cb src/updater.py
+acb818242d83ac4a70d7d796a56397c6 start.bat

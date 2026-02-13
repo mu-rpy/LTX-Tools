@@ -81,8 +81,11 @@ if "%menu%"=="1" (
     goto :run_script
 )
 if "%menu%"=="2" (
-    cd src && pipenv run python updater.py
+    cd src
+    pipenv run python updater.py
+    if %errorlevel% equ 0 exit
     cd ..
+    pause
     goto :run_script
 )
 if "%menu%"=="3" exit /b 0

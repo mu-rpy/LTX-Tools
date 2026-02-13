@@ -3,7 +3,7 @@
 **Author:** Mu_rpy  
 **Platforms:** Windows, MacOS, Linux.
 
-LTX Tools is a command-line utility for managing AI filters, installing updates, and verifying project integrity.
+LTX Tools is a command-line software meant to interact with LTX2 Video-Model.
 
 > [!CAUTION]
 > This tool is still in development, apologies in advance for any bugs in pre-release build.
